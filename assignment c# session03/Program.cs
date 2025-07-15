@@ -33,13 +33,11 @@
             #endregion
 
             #region question 4
-            string word = "hello";
-            string substring = word.Substring(0, 2);
+            //string word = "hello";
+            //string substring = word.Substring(0, 2);
+            //#endregion
+
             #endregion
-
-# reion question 5 
-
-#endregion
         }
     }
 }
